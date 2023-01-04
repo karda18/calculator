@@ -1,0 +1,4 @@
+ git clone https://github.com/karda18/calculator.git
+ cd calculator
+ python3 calculator.py
+ enjoy
